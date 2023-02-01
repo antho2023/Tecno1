@@ -1,0 +1,46 @@
+C:\Users\Valery Gomez\Desktop\Abal Yupe Anthony\Abal Yupe Anthony\bin\Debug\Abal Yupe Anthony.exe.config
+C:\Users\Valery Gomez\Desktop\Abal Yupe Anthony\Abal Yupe Anthony\bin\Debug\Abal Yupe Anthony.exe
+C:\Users\Valery Gomez\Desktop\Abal Yupe Anthony\Abal Yupe Anthony\bin\Debug\Abal Yupe Anthony.pdb
+C:\Users\Valery Gomez\Desktop\Abal Yupe Anthony\Abal Yupe Anthony\bin\Debug\Abal Yupe Anthony.xml
+C:\Users\Valery Gomez\Desktop\Abal Yupe Anthony\Abal Yupe Anthony\obj\Debug\Abal Yupe Anthony.vbprojResolveAssemblyReference.cache
+C:\Users\Valery Gomez\Desktop\Abal Yupe Anthony\Abal Yupe Anthony\obj\Debug\Abal_Yupe_Anthony.Administrador.resources
+C:\Users\Valery Gomez\Desktop\Abal Yupe Anthony\Abal Yupe Anthony\obj\Debug\Abal_Yupe_Anthony.Cliente.resources
+C:\Users\Valery Gomez\Desktop\Abal Yupe Anthony\Abal Yupe Anthony\obj\Debug\Abal_Yupe_Anthony.Form1.resources
+C:\Users\Valery Gomez\Desktop\Abal Yupe Anthony\Abal Yupe Anthony\obj\Debug\Abal_Yupe_Anthony.Resources.resources
+C:\Users\Valery Gomez\Desktop\Abal Yupe Anthony\Abal Yupe Anthony\obj\Debug\Abal_Yupe_Anthony.Secretario.resources
+C:\Users\Valery Gomez\Desktop\Abal Yupe Anthony\Abal Yupe Anthony\obj\Debug\Abal Yupe Anthony.vbproj.GenerateResource.Cache
+C:\Users\Valery Gomez\Desktop\Abal Yupe Anthony\Abal Yupe Anthony\obj\Debug\Abal Yupe Anthony.exe
+C:\Users\Valery Gomez\Desktop\Abal Yupe Anthony\Abal Yupe Anthony\obj\Debug\Abal Yupe Anthony.xml
+C:\Users\Valery Gomez\Desktop\Abal Yupe Anthony\Abal Yupe Anthony\obj\Debug\Abal Yupe Anthony.pdb
+C:\Users\Valery Gomez\Desktop\Anthony-Analisis de sistema II\Abal Yupe Anthony\Abal Yupe Anthony\bin\Debug\Abal Yupe Anthony.exe.config
+C:\Users\Valery Gomez\Desktop\Anthony-Analisis de sistema II\Abal Yupe Anthony\Abal Yupe Anthony\obj\Debug\Abal Yupe Anthony.exe
+C:\Users\Valery Gomez\Desktop\Anthony-Analisis de sistema II\Abal Yupe Anthony\Abal Yupe Anthony\obj\Debug\Abal Yupe Anthony.xml
+C:\Users\Valery Gomez\Desktop\Anthony-Analisis de sistema II\Abal Yupe Anthony\Abal Yupe Anthony\obj\Debug\Abal Yupe Anthony.pdb
+E:\Archivos\Anthony-Analisis de sistema II\Abal Yupe Anthony\Abal Yupe Anthony\bin\Debug\Abal Yupe Anthony.exe.config
+E:\Archivos\Anthony-Analisis de sistema II\Abal Yupe Anthony\Abal Yupe Anthony\obj\Debug\Abal Yupe Anthony.exe
+E:\Archivos\Anthony-Analisis de sistema II\Abal Yupe Anthony\Abal Yupe Anthony\obj\Debug\Abal Yupe Anthony.xml
+E:\Archivos\Anthony-Analisis de sistema II\Abal Yupe Anthony\Abal Yupe Anthony\obj\Debug\Abal Yupe Anthony.pdb
+E:\Archivos\Anthony-Analisis de sistema II\Abal Yupe Anthony\Abal Yupe Anthony\bin\Debug\Abal Yupe Anthony.exe
+E:\Archivos\Anthony-Analisis de sistema II\Abal Yupe Anthony\Abal Yupe Anthony\bin\Debug\Abal Yupe Anthony.pdb
+E:\Archivos\Anthony-Analisis de sistema II\Abal Yupe Anthony\Abal Yupe Anthony\bin\Debug\Abal Yupe Anthony.xml
+E:\Archivos\Anthony-Analisis de sistema II\Abal Yupe Anthony\Abal Yupe Anthony\obj\Debug\Abal Yupe Anthony.vbprojResolveAssemblyReference.cache
+E:\Archivos\Anthony-Analisis de sistema II\Abal Yupe Anthony\Abal Yupe Anthony\obj\Debug\Abal_Yupe_Anthony.Administrador.resources
+E:\Archivos\Anthony-Analisis de sistema II\Abal Yupe Anthony\Abal Yupe Anthony\obj\Debug\Abal_Yupe_Anthony.Cliente.resources
+E:\Archivos\Anthony-Analisis de sistema II\Abal Yupe Anthony\Abal Yupe Anthony\obj\Debug\Abal_Yupe_Anthony.Form1.resources
+E:\Archivos\Anthony-Analisis de sistema II\Abal Yupe Anthony\Abal Yupe Anthony\obj\Debug\Abal_Yupe_Anthony.Resources.resources
+E:\Archivos\Anthony-Analisis de sistema II\Abal Yupe Anthony\Abal Yupe Anthony\obj\Debug\Abal_Yupe_Anthony.Secretario.resources
+E:\Archivos\Anthony-Analisis de sistema II\Abal Yupe Anthony\Abal Yupe Anthony\obj\Debug\Abal Yupe Anthony.vbproj.GenerateResource.Cache
+F:\Archivos\Anthony-Analisis de sistema II\Abal Yupe Anthony\Abal Yupe Anthony\bin\Debug\Abal Yupe Anthony.exe.config
+F:\Archivos\Anthony-Analisis de sistema II\Abal Yupe Anthony\Abal Yupe Anthony\obj\Debug\Abal Yupe Anthony.exe
+F:\Archivos\Anthony-Analisis de sistema II\Abal Yupe Anthony\Abal Yupe Anthony\obj\Debug\Abal Yupe Anthony.xml
+F:\Archivos\Anthony-Analisis de sistema II\Abal Yupe Anthony\Abal Yupe Anthony\obj\Debug\Abal Yupe Anthony.pdb
+F:\Archivos\Anthony-Analisis de sistema II\Abal Yupe Anthony\Abal Yupe Anthony\bin\Debug\Abal Yupe Anthony.exe
+F:\Archivos\Anthony-Analisis de sistema II\Abal Yupe Anthony\Abal Yupe Anthony\bin\Debug\Abal Yupe Anthony.pdb
+F:\Archivos\Anthony-Analisis de sistema II\Abal Yupe Anthony\Abal Yupe Anthony\bin\Debug\Abal Yupe Anthony.xml
+F:\Archivos\Anthony-Analisis de sistema II\Abal Yupe Anthony\Abal Yupe Anthony\obj\Debug\Abal Yupe Anthony.vbprojResolveAssemblyReference.cache
+F:\Archivos\Anthony-Analisis de sistema II\Abal Yupe Anthony\Abal Yupe Anthony\obj\Debug\Abal_Yupe_Anthony.Administrador.resources
+F:\Archivos\Anthony-Analisis de sistema II\Abal Yupe Anthony\Abal Yupe Anthony\obj\Debug\Abal_Yupe_Anthony.Cliente.resources
+F:\Archivos\Anthony-Analisis de sistema II\Abal Yupe Anthony\Abal Yupe Anthony\obj\Debug\Abal_Yupe_Anthony.Form1.resources
+F:\Archivos\Anthony-Analisis de sistema II\Abal Yupe Anthony\Abal Yupe Anthony\obj\Debug\Abal_Yupe_Anthony.Resources.resources
+F:\Archivos\Anthony-Analisis de sistema II\Abal Yupe Anthony\Abal Yupe Anthony\obj\Debug\Abal_Yupe_Anthony.Secretario.resources
+F:\Archivos\Anthony-Analisis de sistema II\Abal Yupe Anthony\Abal Yupe Anthony\obj\Debug\Abal Yupe Anthony.vbproj.GenerateResource.Cache
